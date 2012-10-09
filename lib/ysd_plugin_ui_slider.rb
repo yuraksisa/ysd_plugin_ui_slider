@@ -1,0 +1,4 @@
+require 'ysd_plugin_ui_slider_extension'
+require 'ysd_plugin_ui_slider_middleware'
+require 'ysd_plugin_ui_slider_helper'
+require 'ysd_plugin_ui_slider_init'
